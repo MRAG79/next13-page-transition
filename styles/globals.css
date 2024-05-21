@@ -1,0 +1,12 @@
+nav.navbar > ul, nav.navbar > ul li{
+	display: flex;
+	padding: 10px 20px;
+	align-items: center;
+	background-color: #000;
+	color: #ffffff;
+	justify-content: center;
+}
+
+.navbar li a {
+	color: #ffffff;
+}
